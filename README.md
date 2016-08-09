@@ -46,7 +46,7 @@ The programming language used for this project is Java.
 
 ### Authors
 
-[*lily.tian*](https://github.com/PurpleBooth)
+[*lily.tian*](https://github.com/lily-tian)
 
 ### License
 
