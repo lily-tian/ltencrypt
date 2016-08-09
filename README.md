@@ -1,6 +1,6 @@
 # LTEncrypt
 
-This contains a plain text encryption program using linear-feedback shift register. Enjoy!
+This contains a simple encryption program, written in Java, that is based on the linear-feedback shift register. Enjoy!
 
 ### Getting started
 
@@ -40,18 +40,12 @@ Preliminary testings and debugging are conducted in the test_files folder. This 
 
 In progress is an encryption implementation for images.
 
-### Languages and software
+### Authors and acknowledgements
 
-The programming language used for this project is Java. 
+LTEncrypt and LFSR written by [lily.tian](https://github.com/lily-tian).
 
-### Authors
-
-[*lily.tian*](https://github.com/lily-tian)
+I/O programs are from the standard libraries developed by Robert Sedgewick, Kevin Wayne, and others. This program is based on the LSFR assignment created by Robert Sedgewick in 2008 for the COS126 course at Princeton University. 
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-### Acknowledgments
-
-I/O programs are from the standard libraries developed by Robert Sedgewick and Kevin Wayne. This program is based on the LSFR assignment created by Robert Sedgewick in 2008 for the COS126 course at Princeton University. 
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
