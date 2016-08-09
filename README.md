@@ -42,7 +42,7 @@ In progress is an encryption implementation for images.
 
 ### Authors and acknowledgements
 
-LTEncrypt and LFSR written by [lily.tian](https://github.com/lily-tian).
+LTEncrypt and LFSR written by [lily-tian](https://github.com/lily-tian).
 
 I/O programs are from the standard libraries developed by Robert Sedgewick, Kevin Wayne, and others. This program is based on the LSFR assignment created by Robert Sedgewick in 2008 for the COS126 course at Princeton University. 
 
