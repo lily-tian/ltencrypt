@@ -1,0 +1,5 @@
+Hello world!
+
+This is a test file for LTEncrypt. The encrypted file "testE.txt" should be unintelligible.
+
+- lily.tian
