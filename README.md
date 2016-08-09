@@ -1,4 +1,4 @@
-# ltencrypt
+# LTEncrypt
 
 This contains a plain text encryption program using linear-feedback shift register. Enjoy!
 
