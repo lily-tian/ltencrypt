@@ -22,7 +22,7 @@ To run LTEncrypt, enter the directory LTEncrypt.java is in, and enter the follow
 java -cp .:./dependencies/ LTEncrypt
 ```
 
-You will be prompted to enter a password. This will be the password you will later use to decrypt the file. Hit enter, then enter a numerical pin, the name of the file you wish to encrypt (eg. "test.txt"), and the name of your encrypted file. This will create your new encrypted file and place it in the same directory as LTEncrypt. Make sure the file you wish to encrypt is in your class path.
+You will be prompted to enter a password. This will be the password you will later use to decrypt the file. Hit enter, then enter a numerical pin, the name of the file you wish to encrypt (eg. "test.txt"), and the name you wish to give your encrypted file. This will create your encrypted file and place it in the same directory as LTEncrypt. Make sure the file you wish to encrypt is in your class path.
 
 To decrypt your file, simply run LTEncrypt again, enter the same password and pin, and input your encrypted file. Name your decrypted file and find it in your working directory.
 
@@ -30,7 +30,7 @@ To decrypt your file, simply run LTEncrypt again, enter the same password and pi
 
 This encryption program is intended for casual use, such as hiding files from nosy parents (or kids!). Please do not rely on this program to conceal sensitive or confidential information - the LFSR is a linear system and is possible to be hacked. 
 
-Please restrict use to plain text files. Non-ASCII characters may not be supported. Please do not use for rich text files like .rtf, .odt, .doc or .docx as it may simply return corrupt files. 
+Please restrict use to plain text files. Non-ASCII characters may not be supported. Please do not use for rich text files like .rtf, .odt, .doc or .docx as it may return corrupt files. 
 
 ### Testings
 
